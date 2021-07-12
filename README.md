@@ -16,7 +16,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/Tkinter_based_IDE"><span style="font-size:16px"><strong>Tkinter Based IDE</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/Tkinter_based_IDE/ide.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/Tkinter_based_IDE/ide.PNG" style="margin:5px 10px; width:400px" /></strong></span></p>
 
 <ul>
 	<li style="text-align:justify">Its work environment for writing and compiling code in multiple programming languages powered by tkinter&#39;s GUI.&nbsp;</li>
@@ -30,8 +30,8 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/digital_binary_calculator"><span style="font-size:16px"><strong>Digital Binary Calculator</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/dd_calculatot.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/calculator_documentation.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/dd_calculatot.PNG" style="margin:5px 10px; width:400px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/calculator_documentation.PNG" style="margin:5px 10px; width:400px" /></strong></span></p>
 
 <ul>
 	<li>The Tkinter based calculator is used to perform airthmatic operation on number as well as Binary and further converts one representation to other&nbsp;</li>
