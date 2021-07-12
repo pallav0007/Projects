@@ -2,7 +2,7 @@
 the repository some interesting projects i have worked on these include some GUI based game programmed in python , a covid dashboard and a terminal based chatapp
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/chatapp_server_and_clientfiles"><span style="font-size:16px"><strong>Python Chatapp (P2P)</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" /><img alt="chatapp image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" /><img alt="chatapp image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatapp.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
 
 <ul>
 	<li style="text-align:justify">Its a terminal based chatapp app with basic text formating to transmit data from one machine to another on same network connected by internet or same local network.</li>
@@ -16,7 +16,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/Tkinter_based_IDE"><span style="font-size:16px"><strong>Tkinter Based IDE</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/Tkinter_based_IDE/ide.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
 
 <ul>
 	<li style="text-align:justify">Its work environment for writing and compiling code in multiple programming languages powered by tkinter&#39;s GUI.&nbsp;</li>
@@ -30,7 +30,8 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/digital_binary_calculator"><span style="font-size:16px"><strong>Digital Binary Calculator</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/dd_calculatot.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/digital_binary_calculator/calculator_documentation.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
 
 <ul>
 	<li>The Tkinter based calculator is used to perform airthmatic operation on number as well as Binary and further converts one representation to other&nbsp;</li>
@@ -43,7 +44,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/covid_dashboard"><span style="font-size:16px"><strong>Covid Dashboard</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="margin-bottom:5px; margin-top:5px; width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image link here" src="https://github.com/pallav0007/projects/blob/master/covid_dashboard/covid_dashboard.PNG" style="margin-bottom:5px; margin-top:5px; width:500px" /></strong></span></p>
 
 <ul>
 	<li>Its a dash plotlty dashed webpage that retrieve API data on COVID cases and render and visulize on map.</li>
@@ -57,7 +58,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/Pingpong"><span style="font-size:16px"><strong>Ping Pong&nbsp;</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/Pingpong/pingpong.PNG" style="width:500px" /></strong></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
@@ -77,7 +78,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/falling_blocks"><span style="font-size:16px"><strong>Falling Block</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/falling_blocks/falling_block.PNG" style="width:500px" /></strong></span></p>
 
 <ul>
 	<li style="text-align:justify">The game is programmed in Pygame python library and uses it element to render basic UI and the static assets that are provided in the images directory to set other graphics.</li>
@@ -92,7 +93,7 @@ the repository some interesting projects i have worked on these include some GUI
 
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/snake_game"><span style="font-size:16px"><strong>Snake Game</strong></span></a></p>
 
-<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" style="width:500px" /></strong></span></p>
+<p style="text-align:center"><span style="font-size:16px"><strong><img alt="image here" src="https://github.com/pallav0007/projects/blob/master/snake_game/snak.PNG" style="width:500px" /></strong></span></p>
 
 <ul>
 	<li>Created using Pygame is based on classic snake game from nokia game.</li>
