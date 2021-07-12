@@ -1,5 +1,5 @@
-# projects
-the repository some interesting projects i have worked on these include some GUI based game programmed in python , a covid dashboard and a terminal based chatapp
+# PROJECTS
+The repository 7interesting projects i have worked on these include some GUI based game programmed in python , a covid dashboard and a terminal based chatapp
 <p style="text-align:center"><a href="https://github.com/pallav0007/projects/tree/master/chatapp_server_and_clientfiles"><span style="font-size:16px"><strong>Python Chatapp (P2P)</strong></span></a></p>
 
 <p style="text-align:center"><span style="font-size:16px"><strong><img alt="" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatconnecting.PNG" /><img alt="chatapp image here" src="https://github.com/pallav0007/projects/blob/master/chatapp_server_and_clientfiles/chatapp.PNG" style="margin:5px 10px; width:500px" /></strong></span></p>
